@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Salvi</h1>
-<h3 align="center">AI Developer | Frontend Explorer | Manga Enthusiast</h3>
+<h3 align="center">AI Developer | Frontend Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -11,7 +11,7 @@
 
 - 🌱 Currently building a **Manga Generator Platform** using AI, ComfyUI, and React  
 - 🧠 Exploring **multi-character workflows**, **pose-controlled panels**, and **anime stylization**  
-- 🔭 Working with **Next.js**, **Django**, **Framer Motion**, **TailwindCSS**, and **Redux**  
+- 🔭 Working with **Next.js**, **Django**, **TailwindCSS**, and **Redux**  
 - 💬 Ask me about anything related to **React**, **AI workflows**, or **creative storytelling**  
 - 🎨 Passionate about turning ideas into visual experiences!
 
