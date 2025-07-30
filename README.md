@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Frontend Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://camo.githubusercontent.com/446d986b0c5dcb23f61e18391b47a2e94272b04010118a3337b1d9ed693bb422/68747470733a2f2f692e726564642e69742f676335736463653776723262312e676966)" width="250" />
 </p>
 
 ---
